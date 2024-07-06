@@ -5,7 +5,7 @@ OS (Operating System): for creating directories
 Flask: for backend routes, configuration and app creation
 Blueprint: For organising flask application into modular components.
 Request: For handling HTTP requests
-Jsonify: For cconverting python dictionaries into a JSON response
+Jsonify: For converting python dictionaries into a JSON response
 Pipeline: From the hugging face library, creates an end-to-end pipeline.
 """
 
